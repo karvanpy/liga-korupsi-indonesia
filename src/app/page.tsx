@@ -13,7 +13,6 @@ import corruptionData from '@/data/corruption-cases.json';
 export default function Home() {
   const [sortConfig, setSortConfig] = useState<{ key: keyof CorruptionCase; direction: 'asc' | 'desc' } | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedReferences, setSelectedReferences] = useState<string[]>([]);
 
   const cases = corruptionData.cases;
   const stats = {
