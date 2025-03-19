@@ -1,0 +1,186 @@
+{
+  "cases": [
+    {
+      "id": "case-1",
+      "rank": 1,
+      "caseName": "Kasus Minyak Oplosan Pertamina",
+      "suspects": [
+        "Pejabat Pertamina Subholding",
+        "Kontraktor Kerja Sama"
+      ],
+      "institution": "PT Pertamina",
+      "amount": 968500000000000,
+      "year": 2023,
+      "status": "sedang berlangsung",
+      "verdict": "Belum ada putusan",
+      "description": "Kasus pengoplosan BBM di mana Pertalite (RON 90) dicampur dengan Pertamax (RON 92) oleh pihak internal dan kontraktor kerja sama. Praktik ini menyebabkan kerugian negara hingga Rp 968,5 triliun akibat manipulasi harga dan kualitas produk BBM.",
+      "references": [
+        "https://suarausu.or.id/kasus-bbm-oplosan-kepercayaan-publik-terhadap-pertamina-dipertaruhkan/",
+        "https://www.tempo.co/ekonomi/kerugian-negara-dalam-kasus-pertamina-pertamax-oplosan-hampir-1-kuadriliun-itu-berapa-triliun--1219563"
+      ]
+    },
+    {
+      "id": "case-2",
+      "rank": 2,
+      "caseName": "Penyalahgunaan Dana BLBI",
+      "suspects": ["Tommy Soeharto", "Agus Anwar", "Ronny Hendrarto Ronowicaksono"],
+      "institution": "Bank Indonesia",
+      "amount": 110400000000000,
+      "year": 1998,
+      "status": "sebagian selesai",
+      "verdict": "Putusan hukum beragam dengan beberapa tersangka dibebaskan",
+      "description": "Penyalahgunaan dana talangan krisis keuangan 1997-1998 yang melibatkan 48 tersangka. Kasus ini terkenal karena proses hukum yang tidak tuntas meskipun kerugian sangat besar.",
+      "references": [
+        "https://www.thejakartapost.com/news/2009/01/21/kpk-motors-ahead-with-blbi-loan-probe.html",
+        "https://indonesiabusinesspost.com/insider/top-10-biggest-corruption-cases-in-indonesia/"
+      ]
+    },
+    {
+      "id": "case-3",
+      "rank": 3,
+      "caseName": "Kasus Penipuan Asuransi PT Asabri",
+      "suspects": ["Heru Hidayat", "Benny Tjokrosaputro", "Lukman Purnomosidi"],
+      "institution": "PT Asabri",
+      "amount": 23700000000000,
+      "year": 2019,
+      "status": "selesai",
+      "verdict": "Hukuman seumur hidup untuk pelaku utama",
+      "description": "Praktik investasi penipuan dan manipulasi laporan keuangan dari tahun 2012-2019 yang menargetkan dana asuransi militer.",
+      "references": [
+        "https://ejournal.warmadewa.ac.id/index.php/elg/article/download/10210/5818/",
+        "https://indonesiabusinesspost.com/insider/top-10-biggest-corruption-cases-in-indonesia/"
+      ]
+    },
+    {
+      "id": "case-4",
+      "rank": 4,
+      "caseName": "Skandal Tabungan Jiwasraya",
+      "suspects": ["Benny Tjokrosaputro", "Heru Hidayat", "Hary Prasetyo"],
+      "institution": "PT Jiwasraya",
+      "amount": 16800000000000,
+      "year": 2018,
+      "status": "selesai",
+      "verdict": "Hukuman 10-15 tahun untuk beberapa terdakwa",
+      "description": "Penyalahgunaan investasi premi asuransi melalui portofolio fiktif yang mengakibatkan kerugian besar bagi nasabah dan negara.",
+      "references": [
+        "https://indonesiabusinesspost.com/insider/top-10-biggest-corruption-cases-in-indonesia/",
+        "https://fulcrum.sg/corruption-eradication-in-indonesia-one-step-forward-two-steps-back/"
+      ]
+    },
+    {
+      "id": "case-5",
+      "rank": 5,
+      "caseName": "Korupsi Pengadaan E-KTP",
+      "suspects": ["Setya Novanto", "Irman", "Sugiharto"],
+      "institution": "Kementerian Dalam Negeri",
+      "amount": 2300000000000,
+      "year": 2014,
+      "status": "selesai",
+      "verdict": "Hukuman 15 tahun untuk Setya Novanto",
+      "description": "Penggelembungan anggaran dan pengiriman fiktif dalam proyek kartu identitas nasional elektronik yang merugikan negara.",
+      "references": [
+        "https://fulcrum.sg/corruption-eradication-in-indonesia-one-step-forward-two-steps-back/",
+        "https://indonesiabusinesspost.com/insider/top-10-biggest-corruption-cases-in-indonesia/"
+      ]
+    },
+    {
+      "id": "case-6",
+      "rank": 6,
+      "caseName": "Korupsi Bansos COVID-19",
+      "suspects": ["Juliari Batubara"],
+      "institution": "Kementerian Sosial",
+      "amount": 14590000000,
+      "year": 2020,
+      "status": "selesai",
+      "verdict": "Hukuman penjara 12 tahun",
+      "description": "Kasus suap dalam pengadaan paket bantuan pandemi melalui penggelembungan harga yang merugikan dana bantuan sosial.",
+      "references": [
+        "https://indonesiabusinesspost.com/insider/top-10-biggest-corruption-cases-in-indonesia/",
+        "https://fulcrum.sg/corruption-eradication-in-indonesia-one-step-forward-two-steps-back/"
+      ]
+    },
+    {
+      "id": "case-7",
+      "rank": 7,
+      "caseName": "Proyek Hambalang",
+      "suspects": ["Anas Urbaningrum", "Andi Mallarangeng"],
+      "institution": "Kementerian Pemuda dan Olahraga",
+      "amount": 706000000000,
+      "year": 2012,
+      "status": "selesai",
+      "verdict": "Hukuman 8 tahun untuk Anas Urbaningrum",
+      "description": "Proyek pembangunan kompleks olahraga dengan harga yang dimark-up dan skema kickback yang merugikan keuangan negara.",
+      "references": [
+        "https://indonesiabusinesspost.com/insider/top-10-biggest-corruption-cases-in-indonesia/",
+        "https://fulcrum.sg/corruption-eradication-in-indonesia-one-step-forward-two-steps-back/"
+      ]
+    },
+    {
+      "id": "case-8",
+      "rank": 8,
+      "caseName": "Skandal Bank Century",
+      "suspects": ["Budi Mulya"],
+      "institution": "Bank Century",
+      "amount": 7689000000000,
+      "year": 2008,
+      "status": "selesai",
+      "verdict": "Hukuman 15 tahun penjara",
+      "description": "Pencairan dana likuiditas darurat secara ilegal selama krisis keuangan yang mengakibatkan kerugian negara yang signifikan.",
+      "references": [
+        "https://indonesiabusinesspost.com/insider/top-10-biggest-corruption-cases-in-indonesia/",
+        "https://fulcrum.sg/corruption-eradication-in-indonesia-one-step-forward-two-steps-back/"
+      ]
+    },
+    {
+      "id": "case-9",
+      "rank": 9,
+      "caseName": "Skandal Pengadaan LNG",
+      "suspects": ["Karen Agustiawan"],
+      "institution": "PT Pertamina",
+      "amount": 2100000000000,
+      "year": 2012,
+      "status": "resolved",
+      "verdict": "8-year sentence",
+      "description": "Penyimpangan dalam kontrak pembelian gas alam cair yang mengakibatkan kerugian negara.",
+      "references": [
+        "https://fulcrum.sg/corruption-eradication-in-indonesia-one-step-forward-two-steps-back/",
+        "https://indonesiabusinesspost.com/insider/top-10-biggest-corruption-cases-in-indonesia/"
+      ]
+    },
+    {
+      "id": "case-10",
+      "rank": 10,
+      "caseName": "Korupsi Kementerian Pertanian",
+      "suspects": ["Syahrul Yasin Limpo"],
+      "institution": "Kementerian Pertanian",
+      "amount": 1000000000000,
+      "year": 2023,
+      "status": "sedang berlangsung",
+      "verdict": "Belum ada putusan",
+      "description": "Investigasi yang sedang berlangsung terkait penyimpangan pengadaan peralatan dan gratifikasi di Kementerian Pertanian.",
+      "references": [
+        "https://fulcrum.sg/corruption-eradication-in-indonesia-one-step-forward-two-steps-back/",
+        "https://indonesiabusinesspost.com/insider/top-10-biggest-corruption-cases-in-indonesia/"
+      ]
+    },
+    {
+      "id": "case-11",
+      "rank": 2,
+      "caseName": "Kasus Korupsi PT ANTAM",
+      "suspects": [
+        "Mantan Pejabat ANTAM",
+        "Broker Emas"
+      ],
+      "institution": "PT Aneka Tambang (ANTAM)",
+      "amount": 5900000000000,
+      "year": 2023,
+      "status": "sedang berlangsung",
+      "verdict": "N/A",
+      "description": "Dugaan korupsi terkait penjualan emas palsu seberat 109 ton dan penyalahgunaan dalam pengolahan logam mulia. Kejagung membantah klaim kerugian negara sebesar Rp 5,9 kuadriliun dan memperkirakan kerugian yang lebih realistis sekitar Rp 1 triliun.",
+      "references": [
+        "https://belitung.tribunnews.com/2025/03/18/kata-kejagung-soal-isu-korupsi-antam-rugikan-negara-kuadriliunan-dan-awal-mula-kasus-cap-emas-ilegal",
+        "https://www.tempo.co/hukum/isu-korupsi-pt-antam-rp-5-9-kuadriliun-dan-emas-palsu-109-ton-ini-penjelasan-kejaksaan-agung-1218554"
+      ]
+    }
+  ]
+}
